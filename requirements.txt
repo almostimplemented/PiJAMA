@@ -1,0 +1,8 @@
+black
+mutagen
+spotdl
+pandas
+numpy
+pretty-midi
+mido
+jupyterlab
