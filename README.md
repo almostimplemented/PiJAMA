@@ -3,7 +3,9 @@
 Download MIDI here:
 https://zenodo.org/record/8354955
 
-To conform with the `pijama.csv` metadata, put the MIDI files beneath `data`, i.e.:
+Or run `python scripts/download_midi.py`.
+
+To conform with the `pijama.csv` metadata, MIDI files should be beneath `data`, i.e.:
 ```shell
 mkdir data
 mv midi_hawthorne.zip data
